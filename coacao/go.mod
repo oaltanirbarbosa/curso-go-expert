@@ -1,4 +1,4 @@
-module github.com/oaltanirbarbosa/curso-go-expert/desafio-api/server
+module github.com/oaltanirbarbosa/curso-go-expert/cotacao
 
 go 1.20
 
